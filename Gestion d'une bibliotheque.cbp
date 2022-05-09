@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Gestion d&apos;une bibliotheque" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Gestion d&apos;une bibliotheque" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Gestion d&apos;une bibliotheque" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Emprunt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Emprunt.h" />
+		<Unit filename="Inscrits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Inscrits.h" />
+		<Unit filename="Livres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Livres.h" />
+		<Unit filename="Rech_Tri_Livres_Inscrits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rech_Tri_Livres_Inscrits.h" />
+		<Unit filename="SousMenu.h" />
+		<Unit filename="SousMenuEmprunt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SousMenuInscrits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SousMenuLivres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Structure.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

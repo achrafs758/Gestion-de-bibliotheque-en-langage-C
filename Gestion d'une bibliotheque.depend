@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1588807174 source:c:\users\hp\desktop\gestion d'une bibliotheque\main.c
+	"menu.h"
+
+1588805260 source:c:\users\hp\desktop\gestion d'une bibliotheque\livres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structure.h"
+	"Rech_Tri_Livres_Inscrits.h"
+
+1588566539 c:\users\hp\desktop\gestion d'une bibliotheque\structure.h
+
+1588476467 c:\users\hp\desktop\gestion d'une bibliotheque\menu.h
+
+1588706811 source:c:\users\hp\desktop\gestion d'une bibliotheque\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"SousMenu.h"
+	"Structure.h"
+	"Emprunt.h"
+
+1588474902 c:\users\hp\desktop\gestion d'une bibliotheque\sousmenulivres.h
+
+1588806261 source:c:\users\hp\desktop\gestion d'une bibliotheque\sousmenulivres.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	"Livres.h"
+	"Rech_Tri_Livres_Inscrits.h"
+
+1588805260 c:\users\hp\desktop\gestion d'une bibliotheque\livres.h
+
+1588804772 source:c:\users\hp\desktop\gestion d'une bibliotheque\emprunt.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"Structure.h"
+	"Livres.h"
+	"Inscrits.h"
+
+1588733340 source:c:\users\hp\desktop\gestion d'une bibliotheque\sousmenuemprunt.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	"Emprunt.h"
+	"Livres.h"
+	"Inscrits.h"
+
+1588733340 c:\users\hp\desktop\gestion d'une bibliotheque\emprunt.h
+
+1588535549 c:\users\hp\desktop\gestion d'une bibliotheque\sousmenu.h
+
+1588802102 source:c:\users\hp\desktop\gestion d'une bibliotheque\inscrits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structure.h"
+	"Rech_Tri_Livres_Inscrits.h"
+
+1588801377 source:c:\users\hp\desktop\gestion d'une bibliotheque\sousmenuinscrits.c
+	<stdio.h>
+	<stdlib.h>
+	"Structure.h"
+	"Inscrits.h"
+	"Rech_Tri_Livres_Inscrits.h"
+
+1588668115 c:\users\hp\desktop\gestion d'une bibliotheque\inscrits.h
+
+1588802102 source:c:\users\hp\desktop\gestion d'une bibliotheque\rech_tri_livres_inscrits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structure.h"
+
+1588668115 c:\users\hp\desktop\gestion d'une bibliotheque\rech_tri_livres_inscrits.h
+
